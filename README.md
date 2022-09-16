@@ -1,4 +1,4 @@
-# umi project
+# Umijs3 SSR with MFSU Crush Example
 
 ## Getting Started
 
